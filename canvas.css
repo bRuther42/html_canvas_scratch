@@ -1,0 +1,34 @@
+html,body
+{
+    height: 100%;
+    width: 100%;
+}
+
+#myCanvas
+{
+    width: 65%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+#secondCanvas
+{
+    width: 65%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+#thirdCanvas
+{
+    width: 65%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+#fourthCanvas
+{
+    width: 65%;
+    height: 50%;
+    border: 1px solid black;
+}
+
